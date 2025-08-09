@@ -15,7 +15,7 @@
 - 💻 Passionate Backend Developer 
 - 🔍 Always seeking to learn cutting-edge technologies
 - 📫 How to reach me: **93.nguyentanloc2018@gmail.com**
-- 👉 Visit my personal website: **[roaring-pony-81aa43.netlify.app](https://roaring-pony-81aa43.netlify.app/)**
+- 👉 Visit my personal website: **[My Portfolio](https://roaring-pony-81aa43.netlify.app/)**
 
 <br clear="right"/>
 
@@ -54,6 +54,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
+![Jira](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&style=badge)
 
 ## 📊 GitHub Stats
 
