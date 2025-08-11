@@ -1,7 +1,7 @@
 # Hi there, I'm Nguyễn Tấn Lộc 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🎓 I'm a final-year **Information Technology** student
-- 💻 Passionate Backend Developer 
+- 💻 I’m passionate about web and software development, and I’m eager to expand my knowledge in Data and AI.
 - 🔍 Always seeking to learn cutting-edge technologies
 - 📫 How to reach me: **93.nguyentanloc2018@gmail.com**
 - 👉 Visit my personal website: **[My Portfolio](https://roaring-pony-81aa43.netlify.app/)**
