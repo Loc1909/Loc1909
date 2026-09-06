@@ -1,0 +1,41 @@
+name: Update README Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'      # chạy mỗi ngày lúc 00:00 UTC (~7h sáng giờ VN)
+  workflow_dispatch:          # cho phép bấm chạy tay trên tab Actions
+  push:
+    branches: [main]
+
+permissions:
+  contents: write             # cần quyền write để commit lại README/assets
+
+jobs:
+  update-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate metrics & update README
+        env:
+          # GITHUB_TOKEN mặc định đủ dùng cho dữ liệu public.
+          # Nếu muốn tính cả repo private, tạo Personal Access Token
+          # (scope "repo") rồi lưu vào Secrets với tên GH_METRICS_TOKEN
+          # và đổi dòng dưới thành: ${{ secrets.GH_METRICS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ github.repository_owner }}
+        run: node scripts/generate-metrics.mjs
+
+      - name: Commit & push nếu có thay đổi
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/metrics.svg
+          git diff --staged --quiet || git commit -m "chore: cập nhật metrics tự động [skip ci]"
+          git push

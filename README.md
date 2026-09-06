@@ -62,6 +62,26 @@
 ![NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 ![Jira](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&style=badge)
 
+## 📊 GitHub Metrics (tự động cập nhật)
+
+<!--METRICS:START-->
+<div align="center">
+  <img src="./assets/metrics.svg" alt="GitHub Metrics" />
+</div>
+<!--METRICS:END-->
+
+*(bảng số liệu trên được GitHub Actions build lại mỗi ngày bằng script `scripts/generate-metrics.mjs`)*
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loc1909/Loc1909/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Loc1909/Loc1909/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Loc1909/Loc1909/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
