@@ -9,7 +9,9 @@
   <text x="24" y="34" fill="#58a6ff" font-family="Segoe UI, sans-serif" font-size="16" font-weight="bold">
     📊 GitHub Metrics
   </text>
-
+  <text x="24" y="54" fill="#6e7681" font-family="Segoe UI, sans-serif" font-size="11">
+    tự động cập nhật mỗi ngày bởi GitHub Actions
+  </text>
   
     <g transform="translate(24, 80)" opacity="0">
       <animate attributeName="opacity" from="0" to="1"
@@ -48,6 +50,6 @@
     </g>
   <line x1="24" y1="238" x2="396" y2="238" stroke="#30363d" stroke-width="1" />
   <text x="24" y="270" fill="#6e7681" font-family="Segoe UI, sans-serif" font-size="10">
-    Last updated: 2026-09-07 07:24 UTC
+    Last updated: 2026-09-07 08:15 UTC
   </text>
 </svg>
