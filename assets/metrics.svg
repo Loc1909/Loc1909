@@ -9,7 +9,46 @@
   <text x="24" y="34" fill="#58a6ff" font-family="Segoe UI, sans-serif" font-size="16" font-weight="bold">
     📊 GitHub Metrics
   </text>
-  <text x="24" y="120" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="13">
-    Sẽ tự động cập nhật sau lần chạy Action đầu tiên...
+  <text x="24" y="54" fill="#6e7681" font-family="Segoe UI, sans-serif" font-size="11">
+    tự động cập nhật mỗi ngày bởi GitHub Actions
+  </text>
+  
+    <g transform="translate(24, 80)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1"
+                begin="0.2s" dur="0.6s" fill="freeze" />
+      <text x="0" y="0" fill="#c9d1d9" font-family="Segoe UI, sans-serif" font-size="14">⭐ Total Stars</text>
+      <text x="372" y="0" fill="#58a6ff" font-family="Segoe UI, sans-serif"
+            font-size="14" font-weight="bold" text-anchor="end">0</text>
+    </g>
+    <g transform="translate(24, 114)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1"
+                begin="0.35s" dur="0.6s" fill="freeze" />
+      <text x="0" y="0" fill="#c9d1d9" font-family="Segoe UI, sans-serif" font-size="14">📦 Public Repos</text>
+      <text x="372" y="0" fill="#58a6ff" font-family="Segoe UI, sans-serif"
+            font-size="14" font-weight="bold" text-anchor="end">18</text>
+    </g>
+    <g transform="translate(24, 148)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1"
+                begin="0.5s" dur="0.6s" fill="freeze" />
+      <text x="0" y="0" fill="#c9d1d9" font-family="Segoe UI, sans-serif" font-size="14">👥 Followers</text>
+      <text x="372" y="0" fill="#58a6ff" font-family="Segoe UI, sans-serif"
+            font-size="14" font-weight="bold" text-anchor="end">5</text>
+    </g>
+    <g transform="translate(24, 182)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1"
+                begin="0.6499999999999999s" dur="0.6s" fill="freeze" />
+      <text x="0" y="0" fill="#c9d1d9" font-family="Segoe UI, sans-serif" font-size="14">🍴 Total Forks</text>
+      <text x="372" y="0" fill="#58a6ff" font-family="Segoe UI, sans-serif"
+            font-size="14" font-weight="bold" text-anchor="end">0</text>
+    </g>
+    <g transform="translate(24, 216)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1"
+                begin="0.8s" dur="0.6s" fill="freeze" />
+      <text x="0" y="0" fill="#c9d1d9" font-family="Segoe UI, sans-serif" font-size="14">🔥 Top Language</text>
+      <text x="372" y="0" fill="#58a6ff" font-family="Segoe UI, sans-serif"
+            font-size="14" font-weight="bold" text-anchor="end">Java</text>
+    </g>
+  <text x="24" y="226" fill="#6e7681" font-family="Segoe UI, sans-serif" font-size="10">
+    Last updated: 2026-09-07 01:59 UTC
   </text>
 </svg>
