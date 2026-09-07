@@ -72,7 +72,9 @@
 
 ## 🦉 Duolingo Progress
 
-*(lấy trực tiếp từ profile Duolingo public, cũng tự cập nhật mỗi ngày)*
+<div align="center">
+  <img src="https://duolingo-stats-card.vercel.app/api?username=Pluviophile1909&theme=light" alt="Duolingo Stats" />
+</div>
 
 ## 🐍 Contribution Snake
 
