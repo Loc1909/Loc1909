@@ -46,7 +46,8 @@ function renderSVG(stats) {
   ];
 
   const rowHeight = 34;
-  const height = 70 + rows.length * rowHeight;
+  const footerGap = 36; // khoảng trống dành riêng cho dòng "Last updated"
+  const height = 80 + rows.length * rowHeight + footerGap;
 
   const rowsSvg = rows
     .map(
@@ -60,6 +61,9 @@ function renderSVG(stats) {
     </g>`
     )
     .join("");
+
+  const lastRowY = 80 + (rows.length - 1) * rowHeight;
+  const dividerY = lastRowY + 22;
 
   return `<svg width="420" height="${height}" viewBox="0 0 420 ${height}" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -76,7 +80,8 @@ function renderSVG(stats) {
     tự động cập nhật mỗi ngày bởi GitHub Actions
   </text>
   ${rowsSvg}
-  <text x="24" y="${height - 14}" fill="#6e7681" font-family="Segoe UI, sans-serif" font-size="10">
+  <line x1="24" y1="${dividerY}" x2="396" y2="${dividerY}" stroke="#30363d" stroke-width="1" />
+  <text x="24" y="${height - 16}" fill="#6e7681" font-family="Segoe UI, sans-serif" font-size="10">
     Last updated: ${stats.updatedAt.slice(0, 16).replace("T", " ")} UTC
   </text>
 </svg>`;

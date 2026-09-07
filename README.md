@@ -70,7 +70,7 @@
 </div>
 <!--METRICS:END-->
 
-*(bảng số liệu trên được GitHub Actions build lại mỗi ngày bằng script `scripts/generate-metrics.mjs`)*
+<!--*(bảng số liệu trên được GitHub Actions build lại mỗi ngày bằng script `scripts/generate-metrics.mjs`)*-->
 
 ## 🐍 Contribution Snake
 
