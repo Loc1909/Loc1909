@@ -85,12 +85,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loc1909&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Loc1909&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Loc1909&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🤝 Connect with Me
