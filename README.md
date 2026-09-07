@@ -70,7 +70,15 @@
 </div>
 <!--METRICS:END-->
 
-<!--*(bảng số liệu trên được GitHub Actions build lại mỗi ngày bằng script `scripts/generate-metrics.mjs`)*-->
+## 🦉 Duolingo Progress
+
+<!--DUOLINGO:START-->
+<div align="center">
+  <img src="./assets/duolingo.svg" alt="Duolingo Stats" />
+</div>
+<!--DUOLINGO:END-->
+
+*(lấy trực tiếp từ profile Duolingo public, cũng tự cập nhật mỗi ngày)*
 
 ## 🐍 Contribution Snake
 
