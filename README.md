@@ -72,12 +72,6 @@
 
 ## 🦉 Duolingo Progress
 
-<!--DUOLINGO:START-->
-<div align="center">
-  <img src="./assets/duolingo.svg" alt="Duolingo Stats" />
-</div>
-<!--DUOLINGO:END-->
-
 *(lấy trực tiếp từ profile Duolingo public, cũng tự cập nhật mỗi ngày)*
 
 ## 🐍 Contribution Snake
