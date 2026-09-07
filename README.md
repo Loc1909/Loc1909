@@ -62,7 +62,7 @@
 ![NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 ![Jira](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&style=badge)
 
-## 📊 GitHub Metrics (tự động cập nhật)
+## 📊 GitHub Metrics
 
 <!--METRICS:START-->
 <div align="center">
@@ -70,10 +70,10 @@
 </div>
 <!--METRICS:END-->
 
-## 🦉 Duolingo Progress
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://duolingo-stats-card.vercel.app/api?username=Pluviophile1909&theme=light" alt="Duolingo Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Loc1909&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🐍 Contribution Snake
@@ -86,10 +86,10 @@
   </picture>
 </div>
 
-## 📊 GitHub Stats
+## 🦉 Duolingo Streak
 
 <div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Loc1909&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://duolingo-stats-card.vercel.app/api?username=Pluviophile1909&theme=light" alt="Duolingo Stats" />
 </div>
 
 ## 🤝 Connect with Me
@@ -104,11 +104,6 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
   <img src="https://komarev.com/ghpvc/?username=Loc1909&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-  
-  **✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨**
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
